@@ -189,6 +189,9 @@ This makes switching databases easy without modifying OrderService.
 
 ---
 
+| ghj | hjkl | jgu |
+| --- | ---- | --- |
+
 # 🎯 Why SOLID is Important
 
 - Encourages clean architecture
